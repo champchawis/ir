@@ -36,7 +36,7 @@ Power = 0x1,
   OK = 0x6,
   Plus = 0x7,
   Minus = 0x8,
-  Back = 0x9,
+  Back = 0x9
 };
 
 //% color=50 weight=80
